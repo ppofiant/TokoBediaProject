@@ -1,7 +1,9 @@
 # TokoBediaProject
 
 Lab's Project that created in term 4 in Binus University
-- using Framework : Microsoft Visual Studio 2015
+- Application using : Microsoft Visual Studio 2015
+- Framework using : ASP.NET
+- Database using : Entity Framework
 
 <br/>
 Team Working :
