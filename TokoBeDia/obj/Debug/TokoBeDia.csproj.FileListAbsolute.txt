@@ -1,0 +1,282 @@
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\ApplicationInsights.config
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Web.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Web.xml
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\ApplicationInsights.config
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.AI.DependencyCollector.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Web.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.AI.WindowsServer.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.ApplicationInsights.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.AI.DependencyCollector.xml
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Web.xml
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.AI.WindowsServer.xml
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.ApplicationInsights.xml
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+D:\BINUS\SEMESTER 4\PSD\LAB\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\ApplicationInsights.config
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Web.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Web.xml
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\Users\Andreas\Desktop\PSD\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\ApplicationInsights.config
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Web.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Web.xml
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\Users\Andreas\Desktop\PSD Andreas\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\ApplicationInsights.config
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Web.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Web.xml
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+D:\Projects\New folder\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+D:\Projects\New folder\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+D:\Projects\New folder\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.Web.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.Shared.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportSource.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\stdole.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Newtonsoft.Json.dll
+C:\Users\ROG-STRIX\Desktop\TokoBeDia\TokoBeDia\bin\Newtonsoft.Json.xml
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\ApplicationInsights.config
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\roslyn\csc.exe
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\roslyn\vbc.exe
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll.config
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\TokoBeDia.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\TokoBeDia.pdb
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.Shared.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.Web.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\EntityFramework.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Web.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Newtonsoft.Json.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\stdole.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\EntityFramework.xml
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\EntityFramework.SqlServer.xml
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.AI.Web.xml
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\bin\Newtonsoft.Json.xml
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.dll
+C:\Users\Andreas\Downloads\TokoBeDia\TokoBeDia\obj\Debug\TokoBeDia.pdb
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.Shared.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.Web.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Newtonsoft.Json.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\stdole.dll
+C:\Users\Andreas\Desktop\TokoBeDia\TokoBeDia\bin\Newtonsoft.Json.xml

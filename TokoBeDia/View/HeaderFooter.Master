@@ -1,0 +1,187 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HeaderFooter.master.cs" Inherits="TokoBeDia.View.HeaderFooter" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>TokoBeDia</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../Assets/Bootstrap/master.css" rel="stylesheet" />
+    <link href="../Assets/Bootstrap/bootstrap.css" rel="stylesheet" />
+    <style>
+        .dropbtn {
+            background-color: #3498DB;
+            color: white;
+            padding: 16px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+
+            .dropbtn:hover, .dropbtn:focus {
+                background-color: #2980B9;
+            }
+
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f1f1f1;
+            min-width: 160px;
+            overflow: auto;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+            .dropdown-content a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+        .dropdown a:hover {
+            background-color: #ddd;
+        }
+
+        .show {
+            display: block;
+        }
+
+        .auto-style1 {
+            left: 0px;
+            top: 0px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <nav class="navbar navbar bg-success">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <a class="navbar-brand font-weight-bold text-light" href="Home.aspx">TokoBeDia</a>
+                    </div>
+
+                    <ul class="auto-style1">
+                        <asp:Button ID="LoginBtn" Visible="true" runat="server" Text="Login" CssClass="btn btn-success" OnClick="LoginBtn_Click" />
+                        <asp:Button ID="LogoutBtn" Visible="true" runat="server" Text="Logout" CssClass="btn btn-success" OnClick="LogoutBtn_Click" />
+                    </ul>
+
+                    <nav class="nav-main">
+                        <ul>
+                            <asp:Label class="label" ID="LblProduct" runat="server" Text="Product">
+                                <li>
+                                    <a href="#" class="nav-item">Product</a>
+                                    <div class="nav-content">
+                                        <div class="nav-sub">
+                                            <ul>
+                                                <li><a href="ViewProduct.aspx">View Product</a></li>
+                                            </ul>
+                                        </div>
+                                        <asp:Label ID="LblProductType" runat="server" Text="View Product Type">
+                                        <div class="nav-sub">
+                                            <ul>
+                                                <li><a href="ViewProductType.aspx">View Product Type</a></li>
+                                            </ul>
+                                        </div>
+                                        </asp:Label>
+                                    </div>
+                                </li>
+                            </asp:Label>
+
+                            <asp:Label class="label" ID="LblCart" runat="server" Text="Cart">
+                            <li>
+                                <a href="#" class="nav-item">Cart</a>
+                                <div class="nav-content">
+                                    <div class="nav-sub">
+                                        <ul>
+                                            <li><a href="Cart.aspx">View Cart</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            </asp:Label>
+
+                            <asp:Label class="label" ID="LblTransaction" runat="server" Text="Transaction">
+                            <li>
+                                <a href="#" class="nav-item">Transaction</a>
+                                <div class="nav-content">
+                                    <div class="nav-sub">
+                                        <ul>
+                                            <li><a href="TransactionHistory.aspx">Transaction History</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            </asp:Label>
+
+                            <asp:Label class="label" ID="LblPayment" runat="server" Text="Payment">
+                            <li>
+                                <a href="#" class="nav-item">Payment</a>
+                                <div class="nav-content">
+                                    <div class="nav-sub">
+                                        <ul>
+                                            <li><a href="ViewPaymentType.aspx">View Payment Type</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            </asp:Label>
+
+                            <asp:Label class="label" ID="LblUser" runat="server" Text="User List">
+                            <li>
+                                <a href="#" class="nav-item">User List</a>
+                                <div class="nav-content">
+                                    <div class="nav-sub">
+                                        <ul>
+                                            <li><a href="ViewUser.aspx">View User</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                            </asp:Label>
+                        </ul>
+
+                        <asp:Label class="label" ID="LblProfile" runat="server" Text="Profile">
+                            <nav class="nav justify-content-end">
+                                <ul class="nav-right auto-style1">
+
+                                    <li>
+                                        <a href="#" class="nav-item">
+                                            <asp:Label ID="LblName" runat="server"></asp:Label></a>
+                                        <div class="nav-content">
+                                            <div class="nav-sub">
+                                                <ul class="ul-right">
+                                                    <li><a href="ViewProfile.aspx">View Profile</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="nav-sub">
+                                                <ul class="ul-right">
+                                                    <li><a href="ChangePassword.aspx">Change Password</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </li>
+
+                                </ul>
+                            </nav>
+                        </asp:Label>
+                    </nav>
+                </div>
+            </nav>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <footer class="d-flex justify-content-between py-3 bg-success">
+                <span class="container font-weight-bold text-light">Copyright &copy; Binus University</span>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>

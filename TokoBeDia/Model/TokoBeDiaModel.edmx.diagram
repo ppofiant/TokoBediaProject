@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9a1c0b344e594e298a02314f09d3974a" Name="Diagram1" ZoomLevel="34">
+        <EntityTypeShape EntityType="TokoBeDiaModel.Cart" Width="1.5" PointX="5.25" PointY="4" />
+        <EntityTypeShape EntityType="TokoBeDiaModel.DetailTransaction" Width="1.5" PointX="7.5" PointY="1" />
+        <EntityTypeShape EntityType="TokoBeDiaModel.HeaderTransaction" Width="1.5" PointX="5.25" PointY="0.75" />
+        <EntityTypeShape EntityType="TokoBeDiaModel.PaymentType" Width="1.5" PointX="3" PointY="7.25" />
+        <EntityTypeShape EntityType="TokoBeDiaModel.Product" Width="1.5" PointX="5.25" PointY="10.25" />
+        <EntityTypeShape EntityType="TokoBeDiaModel.ProductType" Width="1.5" PointX="3" PointY="10.625" />
+        <EntityTypeShape EntityType="TokoBeDiaModel.Role" Width="1.5" PointX="0.75" PointY="4.125" />
+        <EntityTypeShape EntityType="TokoBeDiaModel.User" Width="1.5" PointX="3" PointY="3.5" />
+        <AssociationConnector Association="TokoBeDiaModel.FK_Carts_ToTable" />
+        <AssociationConnector Association="TokoBeDiaModel.FK_Carts_ToTable_1" />
+        <AssociationConnector Association="TokoBeDiaModel.FK_DetailTransactions_ToTable" />
+        <AssociationConnector Association="TokoBeDiaModel.FK_DetailTransactions_ToTable_1" />
+        <AssociationConnector Association="TokoBeDiaModel.FK_HeaderTransactions_ToTable" />
+        <AssociationConnector Association="TokoBeDiaModel.FK_HeaderTransactions_ToTable_1" />
+        <AssociationConnector Association="TokoBeDiaModel.FK_Products_ToTable" />
+        <AssociationConnector Association="TokoBeDiaModel.FK_Users_ToTable" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
